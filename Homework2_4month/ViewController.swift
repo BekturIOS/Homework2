@@ -8,7 +8,6 @@
 import UIKit
 import SnapKit
 import Kingfisher
-
 class ViewController: UIViewController {
         private var tableView = UITableView()
     private var timeData:[Article] = []
